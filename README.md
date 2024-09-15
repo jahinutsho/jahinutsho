@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Jahin Utsho</h1>
-<h3 align="center">Versatile Web Developer | MERN Stack Enthusiast | Java & .NET Specialist | Database & C++ Pro From Dhaka , Bangladesh</h3>
+<h3 align="center">Versatile Web Developer | MERN Stack Enthusiast | Java & .NET Specialist | Database & C++ Pro From Dhaka , Bangladesh 🇧🇩</h3>
 
 As a versatile Web Developer with a deep passion for the MERN stack, I bring a broad skill set that spans Java, .NET, and database management. My foundation in C++ enhances my programming expertise, allowing me to tackle complex challenges with confidence. I am dedicated to staying ahead of development trends and delivering innovative, scalable solutions.
 

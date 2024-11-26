@@ -1,4 +1,4 @@
-![I'm a Versatile Web Developer | MERN Stack Enthusiast | Java & .NET Specialist | Database & C++ Pro  From Dhaka ,Bangladesh]
+I'm a Versatile Web Developer | MERN Stack Enthusiast | Java & .NET Specialist | Database & C++ Pro  From Dhaka ,Bangladesh
 
 
 
